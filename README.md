@@ -54,9 +54,7 @@ This notebook demonstrates how Python can be used to clean, analyze, and visuali
 HR-Data-Analysis-with-Python/
 │
 ├── hr-data-analysis-with-python.ipynb
-├── HR_Data.csv
 ├── README.md
-└── images/ (optional)
 ```
 
 ## 🎯 Skills Demonstrated
